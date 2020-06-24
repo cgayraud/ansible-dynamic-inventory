@@ -37,7 +37,7 @@ class ExampleInventory(object):
     def example_inventory(self):
         return {
             'group': {
-                'hosts': ['51.68.28.179' ],
+                'hosts': ['164.132.182.45' ],
                 'vars': {
                     'ansible_ssh_user': 'centos',
                     'ansible_ssh_private_key_file':
